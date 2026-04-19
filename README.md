@@ -1,4 +1,4 @@
-*# 📌 IoT Enabled Automated Object Recognition for the Visually Impaired
+# 📌 IoT Enabled Automated Object Recognition for the Visually Impaired
 
 ## 📖 Overview
 This project is an **IoT-based assistive system** designed to help visually impaired individuals navigate their environment independently. It uses **Machine Learning, Deep Learning, and IoT technologies** to detect objects, recognize currency, and provide real-time audio feedback.
