@@ -1,0 +1,6 @@
+alcohol
+gesture
+blood
+cigarette
+gun
+knife
